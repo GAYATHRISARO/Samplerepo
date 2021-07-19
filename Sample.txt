@@ -1,3 +1,7 @@
 This is sample
 
+<<<<<<< HEAD
 In local
+=======
+modified in remote
+>>>>>>> f97f1805e7055d9d8384f03753b3c57b46b1c124
