@@ -1,5 +1,5 @@
 Movie Basicquery:
---------------
+-----------------
 
 1)select mov_title,mov_year 
   from movie;
