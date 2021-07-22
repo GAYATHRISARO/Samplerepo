@@ -1,4 +1,4 @@
-Movie Basicquery:
+Movie Basic_query:
 -----------------
 
 1)select mov_title,mov_year 
